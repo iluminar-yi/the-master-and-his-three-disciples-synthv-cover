@@ -2,6 +2,8 @@
 
 * Vocal: [Haiyi](https://synthv.fandom.com/wiki/Haiyi) / [Shian](https://synthv.fandom.com/wiki/Shian) /
 [Chiyu](https://synthv.fandom.com/wiki/Chiyu)
+* Song Info: https://baike.baidu.com/item/一个师傅仨徒弟
+* Original (Unofficial): https://www.youtube.com/watch?v=vy0HfgOsWLI
 * Instrumental: https://www.bilibili.com/video/av16379161/
 * Synthesizer V (SynthV): https://synthesizerv.com/
 
