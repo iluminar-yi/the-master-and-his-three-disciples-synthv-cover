@@ -933,7 +933,7 @@
         },
         {
           "onset": 91022400000,
-          "duration": 352800000,
+          "duration": 529200000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 71,
@@ -46785,7 +46785,7 @@
       "color": "ff1599e8",
       "displayOrder": 1,
       "dbDefaults": {
-        "tension": 0,
+        "tension": -0.5,
         "breathiness": 0,
         "gender": 0,
         "tF0VbrStart": 0.25,
@@ -47528,7 +47528,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": false,
+        "engineOn": true,
         "display": true
       },
       "parameters": {
@@ -47568,7 +47568,14 @@
       "dbName": "五维介质·诗岸",
       "color": "ff4f15e8",
       "displayOrder": 2,
-      "dbDefaults": {},
+      "dbDefaults": {
+        "tension": -0.5,
+        "breathiness": 0,
+        "gender": 0,
+        "tF0VbrStart": 0.25,
+        "dF0Vbr": 0,
+        "dF0Jitter": 0
+      },
       "notes": [
         {
           "onset": 131947200000,
@@ -47591,7 +47598,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": false,
+        "engineOn": true,
         "display": true
       },
       "parameters": {
@@ -47632,6 +47639,9 @@
       "color": "ffe815c3",
       "displayOrder": 3,
       "dbDefaults": {
+        "tension": -0.2000000029802322,
+        "breathiness": -0.800000011920929,
+        "gender": 0.1000000014901161,
         "dF0Vbr": 0
       },
       "notes": [
@@ -48218,28 +48228,28 @@
         },
         {
           "onset": 90316800000,
-          "duration": 617400000,
+          "duration": 705600000,
           "lyric": "xi",
           "comment": "西",
           "pitch": 56
         },
         {
           "onset": 91022400000,
-          "duration": 617400000,
+          "duration": 529200000,
           "lyric": "tian",
           "comment": "天",
           "pitch": 59
         },
         {
           "onset": 91728000000,
-          "duration": 617400000,
+          "duration": 705600000,
           "lyric": "qu",
           "comment": "取",
           "pitch": 49
         },
         {
           "onset": 92433600000,
-          "duration": 617400000,
+          "duration": 352800000,
           "lyric": "jing",
           "comment": "经",
           "pitch": 52
@@ -48811,7 +48821,7 @@
         "pan": 0,
         "muted": false,
         "solo": false,
-        "engineOn": false,
+        "engineOn": true,
         "display": true
       },
       "parameters": {
